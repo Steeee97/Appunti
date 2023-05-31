@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduzione}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Obiettivo}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Installazione VM Brainpan}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Azioni preliminari}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Identificazione della Virtual Machine}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}L'eseguibile}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Attacco Brute Force}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Cos'è un attacco Brute Force?}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Attacco}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Primo Attacco}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Creazione script per Brute Force}{7}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Utilizzo dello Script}{8}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Conclusione}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Attacco Buffer Overflow}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Cos'è il Buffer Overflow?}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Attacco}{10}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Controllo presenza Buffer Overflow}{10}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Scrittura nel registro EIP}{12}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Ricerca del registro JMP ESP}{14}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Creazione reverse shell}{15}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Script per attacco}{16}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Creazione handler}{18}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}Attacco Buffer Overflow}{18}{subsubsection.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.8}Modifica script python}{18}{subsubsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.3}Conclusione}{20}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Bibliografia e Sitografia}{22}{section.5}%
