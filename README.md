@@ -27,8 +27,7 @@ Alcuni degli appunti presenti potrebbero essere solo parzialmente completi. Pres
 ##### II anno Magistrale
 
 - [x] Sicurezza Informatica
-- [ ] Data and Computational Biology (RC1)
-- [ ] Computational Systems Biology (RC1)
+- [x] Laboratorio di Progettazione
 
 ### Disclaimer
 
