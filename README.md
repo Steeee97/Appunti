@@ -12,7 +12,7 @@ git clone https://github.com/Steeee97/Appunti
 
 ### Stato degli appunti
 
-Alcuni degli appunti presenti potrebbero essere solo parzialmente completi. Prestare attenzione.
+Alcuni degli appunti presenti potrebbero essere solo parzialmente completi. Prestare attenzione!
 
 ##### I anno Magistrale
 
