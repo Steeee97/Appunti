@@ -16,15 +16,30 @@ Alcuni degli appunti presenti potrebbero essere solo parzialmente completi. Pres
 
 ##### I anno Magistrale
 
-- [ ] Architetture Dati
-- [ ] Machine Learning
-- [ ] Modelli della Concorrenza
-- [ ]
-- [ ] Processo e Sviluppo Software
-- [ ] Teoria della Computazione
-- [ ] Teoria dell'informazione e Crittografia
+###### I semestre
+
+- [x] Architetture Dati
+- [x] Machine Learning
+- [x] Modelli della Concorrenza
+- [x] Teorica della Computazione
+- [x] Processo e Sviluppo Software
+
+###### II semestre
+
+- [x] Informatica Industriale
+- [x] Metodi del calcolo scientifico
+- [x] Sistemi e Servizi di Telecomunicazione
+- [x] Teoria dell'informazione e Crittografia
 
 ##### II anno Magistrale
+
+###### I semestre
+
+- [x] Architettura del software
+- [x] Cloud Computing
+- [x] Laboratorio di Interaction Design
+
+###### II semestre
 
 - [x] Sicurezza Informatica
 - [x] Laboratorio di Progettazione
